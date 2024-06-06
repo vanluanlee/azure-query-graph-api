@@ -1,0 +1,11 @@
+bin/*
+obj/*
+/packages
+*.bak
+.vs/*
+QueryGraphAPI/bin/*
+QueryGraphAPI/obj/*
+QueryGraphAPI/.vs/*
+QueryGraphAPI/packages/*
+QueryGraphAPI/logs/*
+QueryGraphAPI/Properties/*
